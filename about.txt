@@ -1,0 +1,3 @@
+i am Yamini
+course: BSC-CS
+i learned about GitHub it is a center role in enabling and supporting devops practice.
